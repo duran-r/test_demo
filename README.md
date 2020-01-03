@@ -10,3 +10,4 @@ Adding change after changing to merge-branch-2
 This is my app!!!!
 Modifying under stash-branch
 Adding from GUI-Remote page.
+Another change from Remote.
