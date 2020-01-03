@@ -11,3 +11,5 @@ This is my app!!!!
 Modifying under stash-branch
 Adding from GUI-Remote page.
 Another change from Remote.
+Adding git pull command
+Add info about Remote Depository
